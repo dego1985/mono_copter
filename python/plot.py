@@ -10,7 +10,7 @@ from pyqtgraph.Qt import QtCore
 import serial
 
 
-PORT = "/dev/cu.usbmodem1101"
+PORT = "/dev/tty.usbmodem1101"
 
 np.set_printoptions(precision=3)
 e = np.eye(3)
