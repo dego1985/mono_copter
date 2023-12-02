@@ -1,0 +1,6 @@
+numpy
+numpy-quaternion
+pyqtgraph
+pyqt5
+pyserial
+PyOpenGL
